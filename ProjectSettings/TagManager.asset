@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chest
+  - Fighter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GameLayer1
+  - Water
+  - UI
+  - Creatures
+  - Walls
+  - Floor
+  - Weapons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Collision
+    uniqueID: 2024086421
+    locked: 0
+  - name: Floor
+    uniqueID: 3726265139
+    locked: 0
+  - name: Walls
+    uniqueID: 4233202699
+    locked: 0
+  - name: Elements
+    uniqueID: 2584169019
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3962809901
+    locked: 0
+  - name: Weapons
+    uniqueID: 2754911567
+    locked: 0
